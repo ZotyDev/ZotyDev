@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning almost everything that is needed to create a game and a game engine for it.
 
 - 📫 These are the links related to me: <br>
-[Me](https://zoty.dev) <br>
-[Game Engine](http://unnamedengine.com)
+  - [Me](https://zoty.dev) <br>
+  - [Game Engine](http://unnamedengine.com)
