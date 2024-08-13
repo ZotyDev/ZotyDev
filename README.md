@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Leonardo Kronbauer (ZotyDev), a Fullstack developer</h1>
+<h1 align="center">👋 Hi, I’m ZotyDev, a Fullstack developer</h1>
 
 - 👀 I’m interested in Backend development, modularization, games and AI.
 - 🌱 I’m currently learning Rust and its ecosystem.
