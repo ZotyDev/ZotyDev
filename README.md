@@ -1,7 +1,7 @@
-👋 Hi, I’m @ZotyDev, a solo game/engine developer.
-- 👀 I’m really interested in programming, games and AI. I also really like playing TRPGs, specially those that have fantasy, magic, sci-fi and creatures.
-- 🌱 I’m currently learning almost everything that is needed to create a game and a game engine for it.
+<h1 align="center">👋 Hi, I’m Leonardo Kronbauer (ZotyDev), a Fullstack developer</h1>
 
-- 📫 These are the links related to me: <br>
-  - [Me](https://zoty.dev) <br>
+- 👀 I’m interested in Backend development, modularization, games and AI.
+- 🌱 I’m currently learning Rust and its ecosystem.
+- 📫 These are the links related to me:
   - [UnnamedEngine](https://github.com/UnnamedEngine/UnnamedEngine)
+  - [RPG Made Simple](https://github.com/RPG-Made-Simple)
